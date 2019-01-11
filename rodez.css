@@ -1,0 +1,222 @@
+.active{
+
+	background-color: red;
+}
+.fond{
+    margin: 0 auto;
+    height: 450px;
+    width: 30%;
+    position: relative;
+    border:  1px black dotted;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.lign_1{
+	 display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+	.Car_lign_1{
+		/*position: absolute;*/
+		height:70px; 
+		width:70px;
+		background-color: green;
+}
+	.Cerc1_lign_1{
+		/*position: absolute;*/
+		/*absolute ne fonctionne pas avec flex*/
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+}
+	.Cerc2_lign_1{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+	}
+	.Cerc3_lign_1{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+	}
+	.Cerc4_lign_1{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+	}
+
+	.Cerc1_lign_2{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+	}
+
+
+.lign_2{
+	display: flex;
+    justify-content: space-around;
+    width: 100%;
+	}
+	.Cerc1_lign_2{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+	}
+	.Car_lign_2{
+		height:70px; 
+		width:70px;
+		background-color: green;
+	}
+	.Cerc2_lign_2{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+	}
+	.Cerc3_lign_2{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+	}
+	.Cerc4_lign_2{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+		
+	}
+
+.lign_3{
+	display: flex;
+    justify-content: space-around;
+    width: 100%;
+	}
+	.Cerc1_lign_3{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+	}
+	.Cerc2_lign_3{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+	}
+	.Car_lign_3{
+		transform: rotate(45deg);
+		height:70px; 
+		width:70px;
+		background-color: green;		
+	}
+	.Cerc3_lign_3{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+		
+	}
+	.Cerc4_lign_3{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+		
+	}
+.lign_4{
+	display: flex;
+    justify-content: space-around;
+    width: 100%;
+	}
+	.Cerc1_lign_4{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+		
+	}
+	.Cerc2_lign_4{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+
+	}
+	.Cerc3_lign_4{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+		
+	}
+	.Car_lign_4{
+		height:70px; 
+		width:70px;
+		background-color: green;		
+	}
+	.Cerc4_lign_4{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+			
+	}
+.lign_5{
+	display: flex;
+    justify-content: space-around;
+    width: 100%;	
+	}
+	.Cerc1_lign_5{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+	
+	}
+	.Cerc2_lign_5{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+	
+	}
+	.Cerc3_lign_5{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+	
+	}
+	.Cerc4_lign_5{
+		height:70px; 
+		width:70px;
+		border-radius: 50%;
+  border:2px solid #679403; 
+	
+	}
+	.Car_lign_5{
+		height:70px; 
+		width:70px;
+		background-color: green;		
+	}
